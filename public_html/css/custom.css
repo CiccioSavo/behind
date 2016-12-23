@@ -1,0 +1,47 @@
+ /*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11-dic-2016, 15.38.52
+    Author     : Giorgio
+*/
+@import url('https://fonts.googleapis.com/css?family=Orbitron:400,500,700,900');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300,300i,400,400i,600,600i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=News+Cycle:400,700');
+
+body {
+    font-family: 'News Cycle', sans-serif;
+}
+
+
+#container {
+/*    height: 100vh;
+    width: 100%;*/
+    background: #fff;
+}
+
+canvas {
+    cursor: pointer;
+}
+
+.noPadding {
+    padding: 0!important;  
+}
+
+.orbitron {
+    font-family: 'Orbitron', sans-serif!important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.solid_box {
+    max-width: 150px;
+    height: 150px;
+}
+
